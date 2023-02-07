@@ -7,5 +7,7 @@ It does not go in-depth into any particular topic - check out [the Jupyter Book 
 
 Check out the content pages bundled with this sample book to see more.
 
+Here is Eric adding information.  This is me, Eric!
+
 ```{tableofcontents}
 ```
