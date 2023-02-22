@@ -1,1 +1,3 @@
-# This is my CV
+# Curriculum Vitae
+
+# Eric Johnson, Ph.D.
