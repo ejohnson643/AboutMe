@@ -9,5 +9,7 @@ Check out the content pages bundled with this sample book to see more.
 
 Here is Eric adding information.  This is me, Eric!
 
+Ok just checking that I know how this works.
+
 ```{tableofcontents}
 ```
