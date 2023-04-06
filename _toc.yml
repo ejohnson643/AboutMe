@@ -5,6 +5,8 @@ format: jb-book
 root: intro
 chapters:
   - file: Curriculum-Vitae
+  - file: TeachingStatement
+  - file: Publications
 # chapters:
 # - file: markdown
 # - file: notebooks
