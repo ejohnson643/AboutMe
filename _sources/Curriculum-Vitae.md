@@ -3,9 +3,9 @@
 # Eric Johnson, Ph.D.
 
 
-Educator, Researcher
+Educator, Researcher, Cat-Lover, and Devotee of the Minnesota Vikings
 
-[Email](mailto:eric.johnson643@gmail.com) - [Twitter](https://twitter.com/eJohnson643) - [Github](https://github.com/ejohnson643) - [PDF](https://github.com/ejohnson643/AboutMe/blob/main/CV_EricJohnson_Feb22_2023.pdf)
+[Email](mailto:eric.johnson643@gmail.com) - [Twitter](https://twitter.com/eJohnson643) - [Github](https://github.com/ejohnson643) - [PDF](https://github.com/ejohnson643/AboutMe/blob/main/CV_DrEricMJohnson.pdf)
 
 ---
 
@@ -23,7 +23,7 @@ Educator, Researcher
  - Recipient of the Walter P. Murphy Fellowship and the James Farley Scholarship
  - Relevant Coursework: Differential Equations, Asymptotics, Stochastic Methods, Genetics, Systems Biology
 
-`May 2014 - May 2015` **Research Scientist**, [Holland Lab](https://cims.nyu.edu/people/profiles/HOLLAND_David.html)NYU at NYU
+`May 2014 - May 2015` **Research Scientist**, [Holland Lab](https://cims.nyu.edu/people/profiles/HOLLAND_David.html) at NYU
  - Managed, maintained, installed, and calibrated various meteorological equipment for climatology experiments.
  - Developed novel computational tools to infer wind speeds from infrared and visible images of the sky.
 
@@ -39,7 +39,7 @@ Educator, Researcher
 `April 2020, Fall 2020, Spring 2022` **[What Do Your Data Say?](https://ejohnson643.github.io/WhatDoYourDataSay/)**
  - A redevelopment of "A Course in Quantitative Biology" into a graduate-level course centered on empirical, computational, and statistical data analysis, primarily taught via applications to real biological data sets.
  - Developed course goals and curriculum, taught in-person and online courses, created course website, wrote course notes, created [introductory Python Tutorial](https://ejohnson643.github.io/PythonTutorial/).
- - Taught as an [online 5-week bootcamp](www.whatdoyourdatasay.com) in April-May 2020 to ~600 students from around the world.
+ - Taught as an [online 5-week bootcamp](https://www.whatdoyourdatasay.com/) in April-May 2020 to ~600 students from around the world.
 
 `August 2016 - August 2021` **Lead Mathematics Tutor**, [The Math Place](https://sps.northwestern.edu/student-services/resources.php)
  - Tutored individual Northwestern students in math and science as part of a free service provided by the School of Professional Studies.
