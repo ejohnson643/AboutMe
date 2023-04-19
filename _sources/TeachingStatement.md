@@ -2,7 +2,7 @@
 
 <!-- As a lifelong learner, I've always appreciated the value of a good teacher, and as I've progressed through my academic career, I am now excited to be able to try to be a good teacher for new students. On this page, I will detail my teaching philosophy, as well as provide a brief history of the various teaching experiences I have had. The most important such experience has been teaching "[*What Do Your Data Say?*](https://ejohnson643.github.io/WhatDoYourDataSay)" which has its own page that I will link to throughout. -->
 
-## Teaching Statement
+## [Teaching Statement](https://github.com/ejohnson643/AboutMe/blob/main/Teaching_Statement.pdf)
 
 I believe that a good teacher is more like an architect and navigator than an encyclopedia or public speaker.  This means that when I prepare for courses, I spend much more time thinking about *how* the students will be learning, than what they will be learning.
 
