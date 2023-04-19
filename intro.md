@@ -18,11 +18,11 @@ For those who might be interested in my professional background, my [C.V.](./Cur
 
 In order to prepare students for quantitative thinking about data, it is sometimes necessary to bring them up to speed on basic programming. [This tutorial](https://ejohnson643.github.io/PythonTutorial/) was developed to bring students from little or no programming experience to the level of exposure needed to participate in the *What Do Your Data Say?* class.
 
-## [EMBEDR]((https://ejohnson643.github.io/EMBEDR/)
+## [EMBEDR](https://ejohnson643.github.io/EMBEDR/)
 
 [*Empirical Marginal resampling Better Embeds Dimensionality Reduction*](https://pubmed.ncbi.nlm.nih.gov/35510181/) is a method I developed during my Ph.D. to quantitatively evaluate the extent to which [dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) methods are actually preserving high-dimensional structures in their embeddings.  This work was also presented in my thesis and the code can be found [here](https://github.com/ejohnson643/EMBEDR).
 
-## Other
+<!-- ## Other -->
 
 
 <!-- This is a small sample book to give you a feel for how book content is
