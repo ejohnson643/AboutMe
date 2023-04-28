@@ -11,11 +11,11 @@ Expert computational scientist with a proven track record in analyzing complex s
 
 ## Education
 
-**Ph.D. in Applied Mathematics** from Northwestern University in Evanston, Illinois. `March 2022`
+**Ph.D. in Applied Mathematics** from Northwestern University `March 2022`
 
-**M.S. in Applied Mathematics** from Northwestern University in Evanston, Illinois. `May 2016`
+**M.S. in Applied Mathematics** from Northwestern University `May 2016`
 
-**B.S. *cum laude* in Mathematics and Physics** from New York University Abu Dhabi in Abu Dhabi, UAE. `June 2014`
+**B.S. *cum laude* in Mathematics and Physics** from New York University Abu Dhabi `June 2014`
 
 ---
 
