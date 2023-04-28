@@ -219,6 +219,10 @@ Expert in communicating results via data visualization using tools such as ggplo
 
 Adept at working in multidisciplinary teams, liaising with biologists, computer scientists, and statisticians to define project objectives and develop innovative solutions for computational biology research. 
 
+### Languages
+
+Fluent in English, Conversational in French
+
 <!-- 
 ---
 
@@ -304,11 +308,11 @@ Lee, J.; Lim, C.; Han, T.H.; Andreani, T.; Moye, M.; Curran, J.; **Johnson, E.**
 **Johnson, E. M.**, Kath W. A feature extraction method for noisy electrophysiology data. Poster presented at: Neuroscience; 2019 Oct 19-23; Chicago, IL.
 
 Stern, A. A., **Johnson, E. M.**, Holland, D. M., Wagner, T. J. W., Wadhams, P., Bates, R., ... Tremblay, J.-E. (2015). Wind-driven upwelling around grounded tabular icebergs. Journal of Geophysical Research: Oceans, 120(8), 58205835.
-
+<!-- 
 ---
 
 ## Skills
 
 **Languages**: English, French
 
-**Programming Languages**: Python, R, Matlab, C++, MPI, CUDA, CRBasic
+**Programming Languages**: Python, R, Matlab, C++, MPI, CUDA, CRBasic -->
