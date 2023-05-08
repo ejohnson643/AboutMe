@@ -5,7 +5,7 @@
 
 Expert computational scientist with a proven track record in analyzing complex systems. Passionate educator adept at translating specialized research into accessible knowledge for diverse audiences.
 
-[Email](mailto:eric.johnson643@gmail.com) - [Twitter](https://twitter.com/eJohnson643) - [Github](https://github.com/ejohnson643) - [PDF](https://github.com/ejohnson643/AboutMe/blob/main/CV_DrEricMJohnson.pdf)
+[Email](mailto:eric.johnson643@gmail.com) - [Twitter](https://twitter.com/eJohnson643) - [Github](https://github.com/ejohnson643) - [PDF](https://github.com/ejohnson643/AboutMe/blob/main/CV_DrEricMJohnson.pdf) - [Resume](https://github.com/ejohnson643/AboutMe/blob/main/Resume_DrEricMJohnson.pdf)
 
 ---
 
